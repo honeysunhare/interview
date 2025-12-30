@@ -1,0 +1,51 @@
+1. Tell me about your self?
+Ans = First of all, I would like to thank you for giving me an opportunity to introduce myself.
+
+My name is Honey Sunkhare. I have completed my B.Tech in Computer Science from Malwa Institute of Science and Technology with an overall CGPA of 7.94.
+
+I have 6 months of experience in C# and ASP.NET development, where I worked on web application development, backend logic implementation, and database management. This experience has enhanced my expertise in .NET technologies and backend development.
+
+Additionally, I have completed a 3-month internship as a React.js developer at Logical SoftTech, where I gained hands-on experience in frontend development.
+
+I have also completed 4 months of training in Java programming at Software Technologies, which strengthened my problem-solving skills and backend development knowledge.
+
+I am mainly skilled in C#, ASP.NET, HTML, CSS, JavaScript, Bootstrap, React.js, Core Java, and MySQL.
+
+Regarding my soft skills, I am self-confident, hardworking, and have a positive mindset. My other interests include listening to music and dancing.
+
+My short-term goal is to secure a position in a reputed company where I can apply my technical skills and gain industry experience.
+
+My long-term goal is to become a responsible and knowledgeable professional in a respectable position within a leading organization.
+
+That's all about me. Thank you!
+=====================================================================================================================================================================================================================================================================
+2.what is your salary expectation?
+Ans = Based on mu skill , experience and industry standarts, I am expecting a salary  in range of 4 to 4.5 lpa.
+However, I am  open to  discussion based on the  overall compensation package and growth oppertunities your company offer.
+============================================================================================================================================================================================================================================================
+
+3. why do you leave your current company?
+Ans = I am looking for an oppertunity where I am grow professionally and enhance my skills, work on chalening project. while my curreny job has given  me a  good foundation, I believe  this new role aligns better with my long  term career goals.
+==========================================================================================================================================================================================================================================================
+
+
+4. what is your noties period on your current company?
+Ans = My official notice period is 2 months, but I’m in discussion with my current employer and it’s negotiable. I’m making efforts to shorten it and should be able to join within 1 month.
+=========================================================================================================================================================================================================
+
+5. where do you see your self next 5 year?
+Ans = I see myself growing into a strong .NET developer, contributing to impactful projects, and possibly taking on team or technical leadership responsibilities as I gain experience.
+========================================================================================================================================================================================================
+
+6.What are your strength and Weekness?
+Ans = Strength:- I am Adaptive  in any environment and I am a person of positive  mindset, hardworking, quick learner.
+Weekness:- I am a person , who over thinker before doing  any task. because i want  to do  everthing perfectly.
+===========================================================================================================================================================================================================
+
+7. explain your project?
+Ans = I worked on an IPO processing and reconciliation system that handled end-to-end transaction processing. My role included managing ASBA data, reconciling bank files, and automating IPO allotment using a lottery system.
+I integrated with NSDL/CDSL for investor allotments and ensured compliance with SEBI rules. I also automated reports for ASBA validation and bank reconciliation, reducing manual errors and improving efficiency.
+
+IPO = Initial Public Offering
+ASBA = Application support by blocked account.
+==========================================================================================================================================================================================================================================================
